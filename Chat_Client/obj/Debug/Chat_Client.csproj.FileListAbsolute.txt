@@ -1,0 +1,12 @@
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Client\bin\Debug\Chat_Client.exe.config
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Client\bin\Debug\Chat_Client.exe
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Client\bin\Debug\Chat_Client.pdb
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Client\bin\Debug\Chat_Library.dll
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Client\bin\Debug\Chat_Library.pdb
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Client\obj\Debug\Chat_Client.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Client\obj\Debug\Chat_Client.Properties.Resources.resources
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Client\obj\Debug\Chat_Client.csproj.GenerateResource.cache
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Client\obj\Debug\Chat_Client.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Client\obj\Debug\Chat_Cli.CD59B9AA.Up2Date
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Client\obj\Debug\Chat_Client.exe
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Client\obj\Debug\Chat_Client.pdb

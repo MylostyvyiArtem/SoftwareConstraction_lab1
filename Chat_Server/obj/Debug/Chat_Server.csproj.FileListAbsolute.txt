@@ -1,0 +1,10 @@
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Server\bin\Debug\Chat_Server.exe.config
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Server\bin\Debug\Chat_Server.exe
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Server\bin\Debug\Chat_Server.pdb
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Server\bin\Debug\Chat_Library.dll
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Server\bin\Debug\Chat_Library.pdb
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Server\obj\Debug\Chat_Server.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Server\obj\Debug\Chat_Server.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Server\obj\Debug\Chat_Ser.DC68CFE7.Up2Date
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Server\obj\Debug\Chat_Server.exe
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Server\obj\Debug\Chat_Server.pdb

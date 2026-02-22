@@ -1,0 +1,6 @@
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Library\bin\Debug\Chat_Library.dll
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Library\bin\Debug\Chat_Library.pdb
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Library\obj\Debug\Chat_Library.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Library\obj\Debug\Chat_Library.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Library\obj\Debug\Chat_Library.dll
+C:\Users\Артем\Desktop\Study\2 курс\1 семестер\.NET\lab5NET\DotNetLab5\Chat_Library\obj\Debug\Chat_Library.pdb
