@@ -14,6 +14,7 @@ namespace Chat_Server
     {
         List<ServerUser> users = new List<ServerUser>();
         int nextId = 1;
+        private const int SystemUserId = 0;
 
         public int Connect(string name)
         {
@@ -29,7 +30,7 @@ namespace Chat_Server
             Task.Run(() =>
             {
                 Thread.Sleep(200);
-                SendMsg($": {user.Name} підключився до чату!", 0);
+                SendMsg($": {user.Name} підключився до чату!", SystemUserId);
                 UpdateAllUsersList();
             });
 
@@ -45,7 +46,7 @@ namespace Chat_Server
 
                 Task.Run(() =>
                 {
-                    SendMsg($": {user.Name} покинув чат.", 0);
+                    SendMsg($": {user.Name} покинув чат.", SystemUserId);
                     UpdateAllUsersList();
                 });
             }
