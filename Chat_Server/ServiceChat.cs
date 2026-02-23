@@ -63,7 +63,10 @@ namespace Chat_Server
                 {
                     item.operationContext.GetCallbackChannel<IServerChatCallback>().MsgCallback(formattedMsg);
                 }
-                catch { /* Юзер відвалився */ }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
             }
         }
 
@@ -95,7 +98,10 @@ namespace Chat_Server
                 {
                     user.operationContext.GetCallbackChannel<IServerChatCallback>().RefreshClients(names);
                 }
-                catch { }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
             }
         }
     }
