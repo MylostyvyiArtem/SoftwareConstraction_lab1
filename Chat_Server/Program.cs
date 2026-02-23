@@ -6,11 +6,12 @@ namespace Chat_Server
 {
     class Program
     {
+        private const string ServerAddress = "net.tcp://localhost:8302/";
         static void Main(string[] args)
         {
             // Запускаємо хост
             var uris = new Uri[1];
-            string address = "net.tcp://localhost:8302/";
+            string address = ServerAddress;
             uris[0] = new Uri(address);
 
             IServiceChat service = new ServiceChat();
